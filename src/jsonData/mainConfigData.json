@@ -1,0 +1,22 @@
+[
+    {
+        "colName": "person",
+        "sortVisible": true
+    },
+    {
+        "colName": "city",
+        "sortVisible": true
+    },
+    {
+        "colName": "email",
+        "sortVisible": true
+    },
+    {
+        "colName": "joiningDate",
+        "sortVisible": true
+    },
+    {
+        "colName": "role",
+        "sortVisible": true
+    }
+]
